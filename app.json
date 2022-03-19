@@ -1,4 +1,4 @@
-﻿{
+{
   "name": "随便",
   "description": "随便",
   "keywords": [
@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/builuo/kootu.git",
-  "repository": "https://github.com/builuo/kootu.git",
+  "website": "https://github.com/wweerrr/kokok.git",
+  "repository": "https://github.com/wweerrr/kokok.git",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
